@@ -1,0 +1,6 @@
+node_modules/
+old
+vosk-fr
+audio
+.env
+tmp
