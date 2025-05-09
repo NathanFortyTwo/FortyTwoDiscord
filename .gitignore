@@ -1,6 +1,6 @@
 node_modules/
 old
-vosk-fr
+vosk-model
 audio
 .env
 tmp

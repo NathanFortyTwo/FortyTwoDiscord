@@ -9,7 +9,7 @@ const wav = require('wav');
 const vosk = require('vosk');
 require('dotenv').config();
 
-const MODEL_PATH = './vosk-fr';
+const MODEL_PATH = './vosk-model';
 const SAMPLE_RATE = 64000;
 const token = process.env.TOKEN;
 const guildId = process.env.guildId;
